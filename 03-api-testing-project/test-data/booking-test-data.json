@@ -1,0 +1,29 @@
+[
+  {
+    "firstname": "John",
+    "lastname": "Doe",
+    "totalprice": 150,
+    "depositpaid": true,
+    "checkin": "2026-10-01",
+    "checkout": "2026-10-05",
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Sarah",
+    "lastname": "Connor",
+    "totalprice": 320,
+    "depositpaid": false,
+    "checkin": "2026-11-10",
+    "checkout": "2026-11-15",
+    "additionalneeds": "Late Checkout"
+  },
+  {
+    "firstname": "Michael",
+    "lastname": "Scott",
+    "totalprice": 99,
+    "depositpaid": true,
+    "checkin": "2026-12-20",
+    "checkout": "2026-12-24",
+    "additionalneeds": "Desk Lamp & Coffee"
+  }
+]

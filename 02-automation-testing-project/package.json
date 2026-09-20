@@ -1,0 +1,31 @@
+{
+  "name": "playwright-ts-ecommerce-automation",
+  "version": "1.0.0",
+  "description": "Production-grade E2E Automation Testing Framework using Playwright, TypeScript, and Page Object Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:chromium": "playwright test --project=chromium",
+    "test:firefox": "playwright test --project=firefox",
+    "test:webkit": "playwright test --project=webkit",
+    "report": "playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "typescript",
+    "page-object-model",
+    "qa",
+    "e2e"
+  ],
+  "author": "Gio",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
+}

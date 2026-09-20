@@ -1,0 +1,24 @@
+{
+  "name": "postman-newman-api-testing-suite",
+  "version": "1.0.0",
+  "description": "Automated REST API Testing Framework with Postman, Newman CLI, and Chai Assertions",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run collections/qa-api-portfolio.postman_collection.json -e environments/staging.postman_environment.json --reporters cli",
+    "test:data": "newman run collections/qa-api-portfolio.postman_collection.json -e environments/staging.postman_environment.json -d test-data/booking-test-data.json --reporters cli",
+    "test:report": "newman run collections/qa-api-portfolio.postman_collection.json -e environments/staging.postman_environment.json -r cli,json --reporter-json-export reports/newman-report.json"
+  },
+  "keywords": [
+    "postman",
+    "newman",
+    "api-testing",
+    "rest-api",
+    "qa",
+    "contract-testing"
+  ],
+  "author": "Gio",
+  "license": "MIT",
+  "devDependencies": {
+    "newman": "^6.1.2"
+  }
+}

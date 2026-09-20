@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing and Playwright outputs
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+screenshots/
+videos/
+
+# Newman & Test Reports
+newman/
+reports/*.json
+reports/*.html
+!reports/sample-newman-summary.md
+
+# Database & temporary files
+*.sqlite
+*.sqlite3
+*.db
+swiftshop_qa.db
+
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
