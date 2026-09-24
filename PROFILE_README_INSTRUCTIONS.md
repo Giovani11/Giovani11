@@ -18,7 +18,7 @@ If you want to keep everything inside a single master portfolio repository:
 3. **Push your code**:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/yonggiovaniedbert/qa-engineer-portfolio.git
+   git remote add origin https://github.com/Giovani11/qa-engineer-portfolio.git
    git push -u origin main
    ```
 4. **Pin this repository** to the top of your GitHub profile page!
@@ -31,7 +31,7 @@ GitHub allows you to create a special repository named exactly like your GitHub 
 
 ### Step 1: Create your Profile Repository
 1. Go to [github.com/new](https://github.com/new).
-2. Set **Repository name** to your exact GitHub username (e.g. `yonggiovaniedbert`).
+2. Set **Repository name** to your exact GitHub username (e.g. `Giovani11`).
 3. Make sure the repository is **Public** and check **"Add a README file"**.
 4. Copy the contents of the root `README.md` file from this project into that repository's `README.md`.
 5. Update your email address and any additional social links if desired.
@@ -45,6 +45,6 @@ Recruiters love seeing distinct repositories pinned on your profile. You can pub
 4. **`04-sql-for-qa`** ➔ Create repo `sql-data-validation-for-qa`
 
 ### Step 3: Pin Your Repositories
-On your GitHub profile page (`https://github.com/yonggiovaniedbert`), click **Customize your pins** and select the 4 repositories above.
+On your GitHub profile page (`https://github.com/Giovani11`), click **Customize your pins** and select the 4 repositories above.
 
 Now any recruiter visiting your GitHub profile will immediately see your introduction, skills, stats, and 4 high-value QA projects!

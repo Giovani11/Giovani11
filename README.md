@@ -9,7 +9,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yong_Giovani_Edbert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonggiovaniedbert)
-[![GitHub](https://img.shields.io/badge/GitHub-yonggiovaniedbert-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yonggiovaniedbert)
+[![GitHub](https://img.shields.io/badge/GitHub-Giovani11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giovani11)
 
 </div>
 
@@ -90,17 +90,15 @@ Explore practical implementations of software testing disciplines across these d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yonggiovaniedbert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonggiovaniedbert&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Giovani11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
-
-> *Tip: If your GitHub account username differs from `yonggiovaniedbert`, simply update the `username=` parameter in the image URLs above.*
 
 ---
 
 ### 🤝 Let's Connect!
 Looking for a meticulous QA Automation Engineer to elevate your product quality? Let's talk!
 * 💼 **LinkedIn**: [linkedin.com/in/yonggiovaniedbert](https://www.linkedin.com/in/yonggiovaniedbert)
-* 🌐 **GitHub**: [@yonggiovaniedbert](https://github.com/yonggiovaniedbert)
+* 🌐 **GitHub**: [@Giovani11](https://github.com/Giovani11)
 * 💬 **Direct Inquiries**: Connect with me directly via [LinkedIn InMail / Message](https://www.linkedin.com/in/yonggiovaniedbert)
