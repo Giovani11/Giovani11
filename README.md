@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me in 3–4 Lines
 * 🎯 **Role**: **QA Automation Engineer & SDET Specialist** committed to delivering high-reliability software from discovery and sprint planning to production release.
 * 🧪 **Core Focus**: **Manual + Automation Testing** covering functional exploratory testing, cross-browser/mobile E2E testing, API contract verification, and performance profiling.
-* 🛠️ **Tools & Tech**: **Playwright**, **Cypress**, **Selenium**, **Appium**, **Postman & Newman**, **k6 & JMeter**, **TypeScript/JavaScript**, **Python**, **SQL**, and **GitHub Actions CI/CD**.
+* 🛠️ **Tools & Tech**: **Playwright**, **Cypress**, **Selenium**, **Appium**, **Postman & Newman**, **k6 & JMeter**, **Jira & ClickUp**, **TypeScript/JavaScript**, **Python**, **SQL**, and **GitHub Actions CI/CD**.
 * 📚 **Learning Focus**: Deepening expertise in **Microservices Contract Testing (Pact)**, **Resilient Cloud CI/CD Pipelines**, and **AI-augmented automated test generation**.
 
 ---
@@ -33,7 +33,7 @@
 | **API & Performance Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white) |
 | **Languages & Database** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **CI/CD & DevOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **QA Management & Collaboration**| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-047BAF?style=flat-square&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| **QA Management & Collaboration**| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-047BAF?style=flat-square&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
 
 </div>
 
@@ -90,8 +90,9 @@ Explore practical implementations of software testing disciplines across these d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Giovani11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Giovani11&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
 
 </div>
 

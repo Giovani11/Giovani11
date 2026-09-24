@@ -36,7 +36,7 @@ The scope of testing focused on critical end-user journeys and financial transac
 
 | Tool / Technology | Purpose |
 | :--- | :--- |
-| **Jira Software** | Test management, sprint planning, and bug tracking |
+| **Jira Software & ClickUp** | Test management, sprint planning, defect backlog, and bug tracking |
 | **TestRail** | Test case design, repository structure, and execution runs |
 | **Google Sheets / CSV** | Traceability matrix and portable test case format |
 | **Chrome DevTools** | Network payload inspection, console error capture, mobile device emulation, and cookie/session storage verification |
