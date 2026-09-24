@@ -37,6 +37,9 @@ The scope of testing focused on critical end-user journeys and financial transac
 | Tool / Technology | Purpose |
 | :--- | :--- |
 | **Jira Software & ClickUp** | Test management, sprint planning, defect backlog, and bug tracking |
+| **Jam.dev & BrowserStack Capture** | One-click instant bug reporting with automatic console logs, network requests, and video recordings |
+| **Scribe.how & Tango** | Automated step-by-step visual SOPs, workflows, and test case execution walkthroughs |
+| **Mimik** | UI scenario capture and mock asset documentation |
 | **TestRail** | Test case design, repository structure, and execution runs |
 | **Google Sheets / CSV** | Traceability matrix and portable test case format |
 | **Chrome DevTools** | Network payload inspection, console error capture, mobile device emulation, and cookie/session storage verification |

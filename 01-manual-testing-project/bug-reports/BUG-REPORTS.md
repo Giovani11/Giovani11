@@ -39,7 +39,11 @@ When a user clicks the "Pay & Place Order" button rapidly multiple times (simula
 2. Two identical `POST /api/v1/orders/checkout` requests were sent (Status: 200 OK, latency 410ms and 425ms).
 3. Database created Order `#SWIFT-8921` and `#SWIFT-8922`. Stripe dashboard confirms two separate charges of $120.00 against the customer token.
 
-#### Network Logs / Evidence:
+#### Network Logs & Visual Capture:
+* 🎥 **Jam.dev Session Recording**: `https://jam.dev/c/swiftshop-bug-001-double-charge` (Includes console logs, DOM timeline, and network payloads)
+* 📸 **BrowserStack Bug Capture**: `https://capture.browserstack.com/rec/swiftshop-s1-1042`
+* 📖 **Scribe.how Step-by-Step Walkthrough**: `https://scribehow.com/shared/SwiftShop_Duplicate_Charge_Repro`
+
 ```http
 Request 1: POST https://staging.swiftshop-test.internal/api/v1/orders/checkout
 Payload: {"cart_id": 9812, "payment_token": "tok_1P345x", "amount": 120.00}
