@@ -16,7 +16,7 @@
     "qa",
     "contract-testing"
   ],
-  "author": "Gio",
+  "author": "Yong Giovani Edbert",
   "license": "MIT",
   "devDependencies": {
     "newman": "^6.1.2"

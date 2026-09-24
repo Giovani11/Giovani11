@@ -1,25 +1,25 @@
 <div align="center">
 
-# Hi there, I'm Gio! 👋
-### Quality Assurance & Software Test Engineer
+# Hi there, I'm Yong Giovani Edbert! 👋
+### Quality Assurance Automation Engineer & SDET
+*(Known as **Gio**)*
 
 ```text
-🚀 Ensuring software excellence through precision manual testing, robust end-to-end automation, and rigorous API validation.
+🎯 Crafting resilient software through precision manual testing, robust multi-platform automation (Web & Mobile), performance profiling, and backend integrity validation.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yong_Giovani_Edbert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonggiovaniedbert)
+[![GitHub](https://img.shields.io/badge/GitHub-yonggiovaniedbert-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yonggiovaniedbert)
 
 </div>
 
 ---
 
 ### 👨‍💻 About Me in 3–4 Lines
-* 🎯 **Role**: **QA Engineer / Software Test Engineer** dedicated to building resilient, bug-free applications from discovery to production release.
-* 🧪 **Core Focus**: **Manual + Automation Testing** spanning functional exploratory testing, API contract verification, and multi-browser E2E testing.
-* 🛠️ **Tools & Tech**: **Playwright**, **Cypress**, **Selenium**, **Postman & Newman**, **TypeScript/JavaScript**, **Python**, **SQL**, and **GitHub Actions CI/CD**.
-* 📚 **Learning Focus**: Deepening expertise in **Performance Testing with k6**, **Contract Testing with Pact**, and **AI-augmented test automation workflows**.
+* 🎯 **Role**: **QA Automation Engineer & SDET Specialist** committed to delivering high-reliability software from discovery and sprint planning to production release.
+* 🧪 **Core Focus**: **Manual + Automation Testing** covering functional exploratory testing, cross-browser/mobile E2E testing, API contract verification, and performance profiling.
+* 🛠️ **Tools & Tech**: **Playwright**, **Cypress**, **Selenium**, **Appium**, **Postman & Newman**, **k6 & JMeter**, **TypeScript/JavaScript**, **Python**, **SQL**, and **GitHub Actions CI/CD**.
+* 📚 **Learning Focus**: Deepening expertise in **Microservices Contract Testing (Pact)**, **Resilient Cloud CI/CD Pipelines**, and **AI-augmented automated test generation**.
 
 ---
 
@@ -29,11 +29,11 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Automation Testing** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| **API & Performance Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white) |
-| **Languages & Database** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Web & Mobile Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white) |
+| **API & Performance Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white) |
+| **Languages & Database** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **CI/CD & DevOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **QA Management & Bug Tracking**| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-047BAF?style=flat-square&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) |
+| **QA Management & Collaboration**| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-047BAF?style=flat-square&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
 
 </div>
 
@@ -90,17 +90,17 @@ Explore practical implementations of software testing disciplines across these d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=yonggiovaniedbert&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonggiovaniedbert&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
-> *Tip: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to activate your live statistics widgets!*
+> *Tip: If your GitHub account username differs from `yonggiovaniedbert`, simply update the `username=` parameter in the image URLs above.*
 
 ---
 
 ### 🤝 Let's Connect!
-Looking for a meticulous QA Engineer to elevate your product quality? Let's talk!
-* 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/)
-* 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-* 🌐 **GitHub**: [@gio](https://github.com/)
+Looking for a meticulous QA Automation Engineer to elevate your product quality? Let's talk!
+* 💼 **LinkedIn**: [linkedin.com/in/yonggiovaniedbert](https://www.linkedin.com/in/yonggiovaniedbert)
+* 🌐 **GitHub**: [@yonggiovaniedbert](https://github.com/yonggiovaniedbert)
+* 💬 **Direct Inquiries**: Connect with me directly via [LinkedIn InMail / Message](https://www.linkedin.com/in/yonggiovaniedbert)

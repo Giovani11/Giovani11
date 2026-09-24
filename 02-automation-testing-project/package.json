@@ -21,7 +21,7 @@
     "qa",
     "e2e"
   ],
-  "author": "Gio",
+  "author": "Yong Giovani Edbert",
   "license": "MIT",
   "devDependencies": {
     "@playwright/test": "^1.43.0",

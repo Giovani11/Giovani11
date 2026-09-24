@@ -67,6 +67,6 @@ Checkout & Payments:        [████████████░░░░░
 
 ### QA Sign-Off
 
-* **Lead QA Engineer**: Gio
-* **Signature**: *Gio (Verified)*
+* **Lead QA Engineer**: Yong Giovani Edbert (Gio)
+* **Signature**: *Yong Giovani Edbert (Verified)*
 * **Date**: September 20, 2026

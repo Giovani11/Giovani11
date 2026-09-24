@@ -11,7 +11,7 @@ The following are standard Jira/GitHub-style bug reports logged during the manua
 * **Priority**: **P0 - Blocker**
 * **Status**: Open / In Review
 * **Component**: Checkout & Payment Gateway
-* **Reporter**: Gio (QA Engineer)
+* **Reporter**: Yong Giovani Edbert (QA Engineer)
 * **Assignee**: Backend Lead / Payment Team
 * **Environment**:
   - Environment: Staging (`https://staging.swiftshop-test.internal`)
@@ -63,7 +63,7 @@ Response: 200 OK -> {"order_id": "SWIFT-8922", "status": "CONFIRMED"}
 * **Priority**: **P2 - Medium**
 * **Status**: Open
 * **Component**: Product Catalog & Search
-* **Reporter**: Gio (QA Engineer)
+* **Reporter**: Yong Giovani Edbert (QA Engineer)
 * **Environment**: Staging | All Browsers
 
 #### Description:
@@ -94,7 +94,7 @@ causing `$200.75` to be rounded down during evaluation.
 * **Severity**: **S2 - Critical**
 * **Priority**: **P1 - High**
 * **Component**: Session & State Management
-* **Reporter**: Gio (QA Engineer)
+* **Reporter**: Yong Giovani Edbert (QA Engineer)
 
 #### Description:
 When a user opens two tabs of the checkout page simultaneously, modifying shipping details in Tab 2 instantly destroys the active cart session in Tab 1, causing an unhandled React error boundary crash (`TypeError: Cannot read properties of undefined (reading 'items')`).
@@ -107,7 +107,7 @@ When a user opens two tabs of the checkout page simultaneously, modifying shippi
 * **Severity**: **S4 - Minor**
 * **Priority**: **P3 - Low**
 * **Component**: UI / Mobile CSS
-* **Reporter**: Gio (QA Engineer)
+* **Reporter**: Yong Giovani Edbert (QA Engineer)
 * **Device**: iPhone 14 Pro, iOS 17.4, Mobile Safari
 
 #### Description:

@@ -22,13 +22,13 @@ export const USERS = {
 
 export const CUSTOMER_DETAILS = {
   valid: {
-    firstName: 'Gio',
-    lastName: 'Tester',
+    firstName: 'Yong Giovani',
+    lastName: 'Edbert',
     postalCode: '94105',
   },
   missingPostal: {
-    firstName: 'Gio',
-    lastName: 'Tester',
+    firstName: 'Yong Giovani',
+    lastName: 'Edbert',
     postalCode: '',
   },
 };
